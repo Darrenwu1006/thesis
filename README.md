@@ -15,5 +15,7 @@ The third part will involve interviews and interactive questionnaires with sever
 
 Through these research methods, I hope to better understand their stories and convey them through this work. These second-generation immigrants are becoming increasingly important to the future of America, and their stories deserve to be heard by more people. I also hope to reassure these second-generation immigrants that they are not alone, and that this work can serve as a platform for them to explore and discuss their stories.
 
+## Introduction
+
 ## References
 
