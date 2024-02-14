@@ -1,4 +1,5 @@
 # Thesis
+
 ## Abstract
 
 After 1965, the United States experienced its third wave of immigration, with over forty million new immigrants arriving in the country over the past fifty years and giving birth to subsequent generations. This wave of immigration was primarily composed of individuals of Central and South American as well as Asian descent. The median age of the second generation, now in their thirties, reflects the passage of time since the initial immigration.
