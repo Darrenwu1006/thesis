@@ -1,64 +1,52 @@
-# Thesis
+# # Mom! Can I not Bring my Lunch Box to School?
 
 ## Abstract
 
-After 1965, the United States experienced its third wave of immigration, with over forty million new immigrants arriving in the country over the past fifty years and giving birth to subsequent generations. This wave of immigration was primarily composed of individuals of Central and South American as well as Asian descent. The median age of the second generation, now in their thirties, reflects the passage of time since the initial immigration.
-
-As an Asian international student, I have had the opportunity to meet many second-generation immigrants during this period and hear their stories of growth. These experiences have ignited my motivation to explore the stories of second-generation Asian immigrants, focusing on their struggles with mobility and self-identity formation, and to articulate a collective memory belonging to third culture kids.
-
-The definitions of second-generation immigrants and third culture kids can generally be summarized as follows: individuals whose parents possess passports from a country different from the one in which the second generation grew up. This research will be divided into three parts:
-
-The first part will inventory demographic data to clarify the basic profile of second-generation Asian immigrants, including educational attainment, income, and comparisons across cities.
-
-The second part will begin with various texts, collecting growth stories of third culture kids from books, movie scripts, and conducting semantic analysis. It will explore how these creators project their life trajectories onto their works, identifying common themes or scenes.
-
-The third part will involve interviews and interactive questionnaires with several second-generation Asian immigrants.
-
-Through these research methods, I hope to better understand their stories and convey them through this work. These second-generation immigrants are becoming increasingly important to the future of America, and their stories deserve to be heard by more people. I also hope to reassure these second-generation immigrants that they are not alone, and that this work can serve as a platform for them to explore and discuss their stories.
-
-## Introduction
-### Motivation
-I have always been intrigued by the themes of mobility and nomadism, perhaps reflecting my own lived experience of this lifestyle. The term 'Third Culture Kids' (TCK) emerged around the mid-20th century, and over the past few decades, numerous studies and texts have continuously narrated their stories from various perspectives. While they may not always be the protagonists of these narratives, there seems to be a common thread of shared experiences.
-
-Upon arriving in New York to pursue my studies, I encountered many friends from various parts of Asia who had come to the United States among different life stages. Some were born and raised here. Some had grown up here from a young age, while others arrived during their schooling years. However, what struck me was the shared experience among them: after spending many years growing up in a second country, they began to develop distinct identities in terms of language, relationships, and self-identity. They often expressed feeling like foreigners among friends from their home country, yet unable to fully fit into the land where they now reside.
-
-This perpetual state of being a stranger piqued my curiosity, prompting me to embark on this research project. I aim to capture their stories, life fragments, and collective memories through this work, shedding light on the unique experiences of those who navigate the world as perpetual outsiders.
-
-Problem Awareness (Before Hypothesis)
-Who are they? What are their shared/collective memories?
-What are their childhood memories? What are some common traumatic experiences?
-What works resonate with them? Which passages and scenes from certain works resonate deeply with them?
-How do bilingual upbringing environments impact their developmental journey?
+This research illuminates the experiences of second-generation Asian immigrants in the U.S., a rapidly growing demographic predicted to become the largest immigrant group by 2065. Despite sharing an Asian heritage, these individuals navigate between two contrasting cultures - the East and the West - shaping their self-identity and societal integration. The study aims to narrate their stories, elucidating their struggles with integration into American society, and their journey of identity formation that straddles their own and their parents' cultural norms. Methodology includes primary interviews, secondary memoir collections, interview transcripts, film clips, social media, and reviews to create a database of memories. Data will be categorized through machine learning techniques for labeling and classification, and emotion recognition technology in tandem with generative AI. This approach allows for the identification of key themes and words that connect various fragments of their memories. The ultimate objective is to provide visibility to their experiences and foster greater understanding among this marginal population.
 
 
+## Bibliography
 
-### Methodology
-#### Defining the research subject and scope
-#### Define Third Culture
-	- John Useem and Ruth Hill Useem are credited with the earliest use of the phrase ‘Third Culture’ from their work with expatriate Americans in India in the 1950s and 1960s.
-	- An early working definition of Third Culture Kids was proposed at the 1987 International Conference on Missionary Kids (ICMK) held in Quito, Ecuador:
-		- “The general working definition for [a Third Culture Kid] is a young person who has spent a sufficient period of time in a culture other than his own, resulting in integration of elements from both the host culture and his own culture into what we have called a third culture.” 
-	- (in the early 1980s) Norma McCaig coined the term Global Nomad for which she developed a similar definition:
-		- “A person of any age or nationality who has lived a significant part of his or her developmental years in one or more countries outside his or her passport country because of a parent’s occupation.”
-	- The most prominent work in the TCK field is the book Third Culture Kids: Growing Up Among Worlds by David Pollock and Ruth Van Reken, first published in 1999. The third edition, published in 2017, includes David’s son Michael Pollock as a third co-author. The original definition of a Third Culture Kid from the 1999 publication was as follows:
-		- “A Third Culture Kid (TCK) is a person who has spent a significant part of his or her developmental years outside the parents' culture.” 
-		- “A traditional TCK is a person who spends a significant part of his or her first 18 years of life accompanying parent(s) into a country that is different from at least one parent’s passport country(ies) due to a parent’s choice of work or advanced training.”
+### Thesis / Journal Article
 
+- Arar, Raphael. “Nostalgia: A Human-Machine Transliteration.” In 2018 IEEE VIS Arts Program (VISAP), 1–5. Berlin, Germany: IEEE, 2018. https://doi.org/10.1109/VISAP45312.2018.9046055.
+- Batalova Jeanne Batalova Nicole Ward and Jeanne. “Frequently Requested Statistics on Immigrants and Immigration in the United States.” [migrationpolicy.org](http://migrationpolicy.org/), March 13, 2023. https://www.migrationpolicy.org/article/frequently-requested-statistics-immigrants-and-immigration-united-states.
+- Berry, John W. “Immigration, Acculturation, and Adaptation.” Applied Psychology 46, no. 1 (1997): 5–34. https://doi.org/10.1111/j.1464-0597.1997.tb01087.x.
+- Budiman, Abby, and Neil G. Ruiz. “Key Facts about Asian Origin Groups in the U.S.” Pew Research Center, May 2021. https://www.pewresearch.org/fact-tank/2021/05/18/key-facts-about-asian-origin-groups-in-the-u-s/.
+- Camarota, Steven A. “The Second Generation: Glass Half Empty or Half Full?,” September 1, 2022. https://cis.org/Report/Second-Generation-Glass-Half-Empty-or-Half-Full.
+- Davalos, Sergio, and Altaf Merchant. “Using Big Data to Study Psychological Constructs: Nostalgia on Facebook.” Journal of Psychology & Psychotherapy 05, no. 06 (2015). https://doi.org/10.4172/2161-0487.1000221.
+- Dizon, Lovely, Vanessa Selak, Rodrigo Ramalho, and Roshini Peiris-John. “Factors Influencing the Negotiation of Ethnic Identity among 1.5 and Second-Generation Asian Migrants: A Mixed Methods Systematic Review.” Journal of Adolescence 89 (June 1, 2021): 95–112. https://doi.org/10.1016/j.adolescence.2021.04.005.
+- Elizabeth, Perry. “The 8 Stages of Life: What Can We Learn From Each One?,” 2022. https://www.betterup.com/blog/stages-of-life.
+- Espinetti, Gretchen L. “The Third Culture Kid (TCK) Experience: Adult-TCKS’ Reflections On Their Multicultural Childhood, Its Impact On Student-Teacher Relationships In U.S. Classrooms And Their Recommendations For Multicultural Teacher Education In The United States.” Kent State University, 2011. https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=kent1300914837.
+- France, Tiffany. “Emotion Driven Literary Bindings.” Parsons School of Design, 2021.
+- Greene, A. L., Susan M. Wheatley, and John F. Aldava. “Stages on Life’s Way: Adolescents’ Implicit Theories of the Life Course.” Journal of Adolescent Research 7, no. 3 (July 1, 1992): 364–81. https://doi.org/10.1177/074355489273006.
+- Gu, Simeng, Fushun Wang, Nitesh P. Patel, James A. Bourgeois, and Jason H. Huang. “A Model for Basic Emotions Using Observations of Behavior in Drosophila.” Frontiers in Psychology 10 (April 24, 2019). https://doi.org/10.3389/fpsyg.2019.00781.
+- Kim, Bryan S. K., Bradley R. H. Brenner, Christopher T. H. Liang, and Penelope A. Asay. “A Qualitative Study of Adaptation Experiences of 1.5-Generation Asian Americans.” Cultural Diversity and Ethnic Minority Psychology 9, no. 2 (2003): 156–70. https://doi.org/10.1037/1099-9809.9.2.156.
+- Lu, Xiaofeng. “Deep Learning Based Emotion Recognition and Visualization of Figural Representation.” Frontiers in Psychology 12 (January 6, 2022). https://doi.org/10.3389/fpsyg.2021.818833.
+- Lui, P. Priscilla. “Intergenerational Cultural Conflict, Mental Health, and Educational Outcomes among Asian and Latino/a Americans: Qualitative and Meta-Analytic Review.” Psychological Bulletin 141, no. 2 (2015): 404–46. https://doi.org/10.1037/a0038449.
+- Open Culture. “Why the University of Chicago Rejected Kurt Vonnegut’s Master’s Thesis (and How a Novel Got Him His Degree 27 Years Later) | Open Culture,” 2019. https://www.openculture.com/2019/12/why-the-university-of-chicago-rejected-kurt-vonneguts-masters-thesis.html.
+- Reagan, Andrew J., Lewis Mitchell, Dilan Kiley, Christopher M. Danforth, and Peter Sheridan Dodds. “The Emotional Arcs of Stories Are Dominated by Six Basic Shapes.” EPJ Data Science 5, no. 1 (December 2016): 1–12. https://doi.org/10.1140/epjds/s13688-016-0093-1.
+- Shah, Neil. “Key Facts about Asian Americans, a Diverse and Growing Population.” Pew Research Center, 2022. https://www.pewresearch.org/fact-tank/2017/09/08/key-facts-about-asian-americans/.
+- Short, Edmund C. Forms of Curriculum Inquiry. SUNY Press, 1991.
+- Stake, Robert E. The Art of Case Study Research. Nachdr. Thousand Oaks, Calif.: Sage Publ, 2010.
+- Taylor, Paul. “Second-Generation Americans: A Portrait of the Adult Children of Immigrants | Immigration Research Library.” Pew Research Center, 2013. https://www.immigrationresearch.org/report/pew-hispanic-center/second-generation-americans-portrait-adult-children-immigrants.
+- Yamashita, Liann. “‘I Just Couldn’t Relate to That Asian American Narrative’: How Southeast Asian Americans Reconsider Panethnicity.” Sociology of Race and Ethnicity 8, no. 2 (April 1, 2022): 250–66. https://doi.org/10.1177/23326492221078953.
+- Yin, Robert K. “Discovering the Future of the Case Study. Method in Evaluation Research.” Evaluation Practice 15, no. 3 (October 1, 1994): 283–90. https://doi.org/10.1177/109821409401500309.
+- Zhou, Min, and Yang Sao Xiong. “The Multifaceted American Experiences of the Children of Asian Immigrants: Lessons for Segmented Assimilation.” Ethnic and Racial Studies 28, no. 6 (November 1, 2005): 1119–52. https://doi.org/10.1080/01419870500224455.
 
+### Books / Film Script
 
-#### Analysis Methodology
+- Elemental. Adventure, Animation, Comedy, 2023. https://thescriptlab.com/property/elemental/.
+- “The Nature of Emotions (Plutchik, 2001) | Luis Cruz-Villalobos - Academia.Edu.” Accessed March 18, 2024. https://www.academia.edu/43620307/The_Nature_of_Emotions_Plutchik_2001_.
+- The Farewell. Comedy, Drama, 2019. https://thescriptlab.com/property/the-farewell/.
+- Hsu, Hua. Stay True: A Memoir, 2022. https://www.penguinrandomhouse.com/books/688054/stay-true-by-hua-hsu/.
+- Past Lives. Movie, Romance,Drama, 2023. https://thescriptlab.com/property/past-lives/.
+- Zauner, Michelle. Crying in H Mart, 2021. https://www.goodreads.com/book/show/54814676-crying-in-h-mart.
 
-My research is divided into three parts, aiming to approach the collective memories of Third Culture Kids (TCKs) from different perspectives. The first two parts involve narrative data, while the final part focuses on interaction and surveys.
+### Blogs / Web Pages
 
-The first part involves a review of relevant research literature on TCKs, similar to a literature review. This includes reports from non-profit organizations, official documents, or news commentaries, to construct the background stories of TCKs and define the research scope: the collective life experiences of TCKs.
-
-The second part will involve collecting relevant texts for semantic analysis, including movie scripts, books, or music. I hope to start discussing common themes from the narrative structures of these texts or specific techniques and memory fragments from childhood. Additionally, returning to the research itself, I aim to examine how TCKs project and reflect on each stage of their lives, such as resisting learning their parents' language during childhood to fit into their environment.
-
-The third part will involve designing interviews and semi-structured questionnaires to collect first-hand feedback from TCKs in my surroundings. Through certain creative activities that evoke their experiences, such as childhood experiences (bringing packed lunches to school and being teased by classmates), I intend to bring out their own stories. I also aim to design an interactive website where participants can receive outputs after completing the questionnaire, informing them that others share similar life stories and showing what works they are also engaging with.
-
-
-
-
-
-## References
-
+- Budiman, Abby, and Neil G. Ruiz. “Key Facts about Asian Americans, a Diverse and Growing Population.” Pew Research Center (blog), 2021. https://www.pewresearch.org/short-reads/2021/04/29/key-facts-about-asian-americans/.
+- Crossman, Tanya. “Are Immigrant Kids TCKs?” MISUNDERSTOOD (blog), March 7, 2019. https://misunderstood-book.com/2019/03/07/are-immigrant-kids-tcks/.
+- Noe-Bustamante, Abby Budiman, Christine Tamir, Lauren Mora and Luis. “Facts on U.S. Immigrants, 2018.” Pew Research Center’s Hispanic Trends Project (blog), August 20, 2020. https://www.pewresearch.org/hispanic/2020/08/20/facts-on-u-s-immigrants/.
+- Shah, Neil G. Ruiz, Sunny Shao and Sono. “What It Means To Be Asian in America.” Pew Research Center Race & Ethnicity (blog), August 2, 2022. https://www.pewresearch.org/race-ethnicity/2022/08/02/what-it-means-to-be-asian-in-america/.
+- Tian, Neil G. Ruiz, Carolyne Im and Ziyao. “Discrimination Experiences Shape Most Asian Americans’ Lives.” Pew Research Center Race & Ethnicity (blog), November 30, 2023. https://www.pewresearch.org/race-ethnicity/2023/11/30/discrimination-experiences-shape-most-asian-americans-lives/.
