@@ -1,4 +1,4 @@
-# # Mom! Can I not Bring my Lunch Box to School?
+# # Mom! Can I not Bring the Lunch Box to School?
 
 ## Abstract
 
